@@ -1,13 +1,18 @@
-**Moody Project in FireBase**
+# **Moody Project in Firebase**  
 
-Project with CRUD and Auth integrated to write posts in a personal journey.
+A simple web application featuring **CRUD (Create, Read, Update, Delete) functionality** and **authentication**, allowing users to write and manage personal journal entries.  
 
+## 🚀 **Features**  
+- 🔐 **User Authentication** (Firebase Auth)  
+- ✍️ **Create, Read, Update, and Delete Posts**  
+- 🎨 **Simple UI with HTML, CSS, and JavaScript**  
+- ☁️ **Firebase Integration for Database & Hosting**  
 
-**Technology**
-* HTML
-* CSS
-* JS
-* Firebase
+## 🛠 **Technologies Used**  
+- **HTML**  
+- **CSS**  
+- **JavaScript**  
+- **Firebase (Auth, Firestore, Hosting)**  
 
-  Project from Coursera and scrimba.com
-
+## 📌 **About the Project**  
+This project was developed as part of **Coursera** and **Scrimba.com** coursework, focusing on integrating Firebase services into a web application.  
